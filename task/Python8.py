@@ -1,0 +1,6 @@
+One = int(input)
+print(One)
+Two = int(input)
+print(Two)
+Free = int(input)
+print(Free)
